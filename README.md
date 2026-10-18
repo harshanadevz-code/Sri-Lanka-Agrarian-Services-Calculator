@@ -31,7 +31,9 @@ Get AGN LandCalc and simplify your land calculations.
 
 ## ⚖️ Legal Notice & Copyright
 
-**© 2026 Harshana Devz. All Rights Reserved.**
+**Copyright © 2026 Harshana Devz Project • Developed by Harshana Devz**
+
+All rights reserved.
 
 AGN LandCalc, including its application design, branding, graphics, original content, and other original materials, is the property of **Harshana Devz**, except for third-party materials that remain the property of their respective owners.
 
@@ -58,6 +60,12 @@ The developer does not guarantee that every calculation or conversion will be er
 All rights not expressly granted are reserved by **Harshana Devz**.
 
 For permissions, licensing inquiries, or other legal matters concerning AGN LandCalc, please contact the developer through the official contact channels.
+
+---
+
+**Copyright © 2026 Harshana Devz Project • Developed by Harshana Devz**
+
+*This notice is intended to communicate ownership and usage restrictions. It is not a substitute for jurisdiction-specific legal advice.*
 
 **AGN LandCalc | Developed by Harshana Devz**
 
